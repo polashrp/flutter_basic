@@ -1,8 +1,10 @@
 # flutter_basic
 
-A new Flutter application.
+A new Flutter application with drawer navigation.
 
 ## Getting Started
+
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
 This project is a starting point for a Flutter application.
 
